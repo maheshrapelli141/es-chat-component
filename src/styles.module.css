@@ -7,3 +7,19 @@
   font-size: 2em;
   text-align: center;
 }
+
+.mainFrame{
+  border: 1px solid #000;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  height: 400px;
+  width: 300px;
+  margin: 0px 10px 5px 0px;
+}
+
+
+.chatList  {
+ list-style-type: none;
+ list-style: none;
+}
