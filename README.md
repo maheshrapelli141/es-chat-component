@@ -28,3 +28,4 @@ class Example extends Component {
 ## License
 
 MIT © [maheshrapelli141](https://github.com/maheshrapelli141)
+# es-chat-component
